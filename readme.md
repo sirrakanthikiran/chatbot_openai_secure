@@ -45,7 +45,7 @@ A simple command-line chatbot powered by OpenAI’s `gpt-3.5-turbo` model.
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone this repository:
 ```bash
@@ -63,7 +63,7 @@ pip install openai
 pip install python-dotenv
 
 ```
-## 🔑 Setup
+## Setup
 
 ### Choose one of the methods below to provide your API key.
 
@@ -94,7 +94,7 @@ OPENAI_API_KEY=your-key-here
 ```
 #### 3. Ensure your script loads environment variables (e.g., with python-dotenv).
 
-## 💬 Usage
+## Usage
 Run the chatbot:
 ```
 python chatbot.py
@@ -109,7 +109,7 @@ Bot: Python is a high-level, interpreted programming language...
 You: quit
 Goodbye!
 ```
-## 🧱 Project Structure
+## Project Structure
 my-first-ai-chatbot/
 ├── chatbot.py          # Main chatbot script
 ├── .gitignore          # Protects API keys and local env files
@@ -128,7 +128,7 @@ __pycache__/
 *.pyc
 ```
 
-## 🧩 Troubleshooting
+## Troubleshooting
 
 item Command not found: python” → Try python3 instead of python.
 
@@ -138,7 +138,7 @@ Key not found → Confirm you set OPENAI_API_KEY (environment or .env).
 
 Windows PowerShell → Use $env:OPENAI_API_KEY="your-key-here" instead of set.
 
-## 🪪 License
+## License
 
 MIT License — feel free to use and modify.
 

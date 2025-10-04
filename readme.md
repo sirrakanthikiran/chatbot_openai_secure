@@ -146,7 +146,8 @@ MIT License — feel free to use and modify.
 ---
 ## Author
 **Dr. Kanthi Kiran Sirra**  
-GitHub: [@sirrakantihkiran](https://github.com/sirrakantihkiran)
+GitHub: [@sirrakanthikiran](https://github.com/sirrakantihkiran)
+
 
 ---
 Made with ❤️ using OpenAI’s GPT-3.5-turbo
